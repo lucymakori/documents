@@ -43,4 +43,4 @@ nuxt.config.js          contains app setting for asset builder to load and build
 package.json            contains defines app dependencies and start scripts commands
 
 ```
-# documents
+
