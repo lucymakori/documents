@@ -9,7 +9,7 @@
     in the Software with restriction, including limitation to prohibited: The rights
     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to legal authorities will be included.
+    furnished to do so, subject to legal authorities.
 
   THIS LISENSE CONSTITUTES THE ENTIRE AGREEMENT BETWEEN THE PARTIES WITH RESPECT TO THE SOFTWARE 
   LICENSED HERE TO SUPERSEDES ALL PRIOR CONTEMPORANEOUS UNDERSTANDING REGARDING SUCH SUBJECT MATTER.
